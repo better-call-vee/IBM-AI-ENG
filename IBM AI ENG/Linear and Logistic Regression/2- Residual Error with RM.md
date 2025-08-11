@@ -46,7 +46,23 @@ Mean Squared Errors (MSE)
 
 
 
+> [!info] Residuals in Regression
+> **Definition:** A residual is the prediction error for a single data point — the difference between the **actual value** (`y`) and the **predicted value** (`ŷ`). It’s what’s *left over* after making a prediction.  
+> 
+> **Formula:**  
+> ```
+> Residual (e) = Actual (y) − Predicted (ŷ)
+> ```
+> 
+> **Examples:**  
+> - **Positive Residual (Underestimate):**  
+>   - 10 hrs → Actual: $8,000, Predicted: $7,500 → **+500** → Point above the line.  
+> - **Negative Residual (Overestimate):**  
+>   - 20 hrs → Actual: $9,000, Predicted: $10,000 → **−1,000** → Point below the line.  
+> - **Zero Residual (Perfect):**  
+>   - 8 hrs → Actual = Predicted = $7,000 → On the line.
 
+That's why it's Residual. We get the Part after subtracting the main part (predicted calculated number)
 
 
 
