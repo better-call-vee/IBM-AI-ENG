@@ -1,6 +1,6 @@
 
-Ordinary Least Squares (OLS)
-Mean Squared Errors (MSE)
+**Ordinary Least Squares (OLS)**
+**Mean Squared Errors (MSE)**
 
 - We use scatter plots in Regression Model.
 - We get lines by adding those. We have to find the line with the least error.
@@ -19,8 +19,9 @@ Mean Squared Errors (MSE)
 > 
 > **Formula:**  
 > ```
-> Predicted Sales (ŷ) = Intercept (θ₀) + Slope (θ₁) × Training Hours (x₁)
+> Predicted Sales (ŷ) = Intercept (θ₀) + Slope / Coefficient (θ₁) × Training Hours (x₁)
 > ```
+
 
 > [!info] Understanding Slope, Intercept, and Extrapolation
 > - A **_slope_** tells us how much `y` changes for every **one-unit increase** in `x`.  

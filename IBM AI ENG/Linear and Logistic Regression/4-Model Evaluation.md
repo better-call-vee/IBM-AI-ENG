@@ -1,0 +1,2 @@
+After training, the notebook calculates several metrics to see how well our model performs on the unseen _test data_. One of the most important metrics shown is the **R2-score**
+R-squared "represents how close the data points are to the fitted regression line" and that "the best possible score is 1.0." As a rule of thumb, it tells you the percentage of the variation in `y` that is explained by `x`.
